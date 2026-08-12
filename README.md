@@ -77,7 +77,7 @@ nvidia-smi
 
 ## 2. 数据选择与许可
 
-建议的三层数据：
+> 实际训练仅使用了 ESC-50 的 15 类子集（600 条），完整来路与复原步骤见 [`docs/数据来源与复原.md`](docs/数据来源与复原.md)。下面是后续扩类别时建议的三层数据：
 
 1. 鸟类：使用 [Xeno-canto](https://xeno-canto.org/) 或 BirdCLEF 的合规下载版本。Xeno-canto 的许可按每条录音分别给出，训练清单必须保留 `recordist`、`source`、`license` 和原始 ID。
 2. 昆虫：可使用 [InsectSet459](https://zenodo.org/records/18554693)；先核对记录页当前版本的许可和引用要求。
