@@ -1,0 +1,4 @@
+audio_path,species,group,source,recording_id,common_name_zh,common_name_en,scientific_name,call_type,background,site,recordist,license,start_s,end_s
+audio/bird_001.wav,eurasian_blackbird,bird,xeno-canto,XC000001,乌鸫,Eurasian Blackbird,Turdus merula,song,wind|leaves,site_a,example,CC-BY-4.0,0,10
+audio/insect_001.wav,field_cricket,insect,insectset459,INS000001,田野蟋蟀,Field cricket,Gryllus campestris,calling_song,grass|distant_birds,site_b,example,see-source,0,10
+

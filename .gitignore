@@ -1,0 +1,18 @@
+# 环境与缓存
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+
+# 大文件：权重、数据、运行产物（模型权重见魔搭仓库）
+runs/
+data/
+outputs/
+external/
+modelscope-upload/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.egg-info/

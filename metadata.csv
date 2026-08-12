@@ -1,0 +1,601 @@
+audio_path,species,group,source,recording_id,common_name_zh,common_name_en,scientific_name,call_type,background,site,recordist,license,start_s,end_s
+audio/1-100032-A-0.wav,dog,mammal,esc-50,100032,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-100038-A-14.wav,chirping_birds,bird,esc-50,100038,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-101296-A-19.wav,thunderstorm,environment,esc-50,101296,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-101296-B-19.wav,thunderstorm,environment,esc-50,101296,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-103298-A-9.wav,crow,bird,esc-50,103298,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-110389-A-0.wav,dog,mammal,esc-50,110389,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-115521-A-19.wav,thunderstorm,environment,esc-50,115521,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-121951-A-8.wav,sheep,mammal,esc-50,121951,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-137296-A-16.wav,wind,environment,esc-50,137296,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-15689-A-4.wav,frog,amphibian,esc-50,15689,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-15689-B-4.wav,frog,amphibian,esc-50,15689,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17150-A-12.wav,crackling_fire,environment,esc-50,17150,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17367-A-10.wav,rain,environment,esc-50,17367,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17565-A-12.wav,crackling_fire,environment,esc-50,17565,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17585-A-7.wav,insects,insect,esc-50,17585,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17742-A-12.wav,crackling_fire,environment,esc-50,17742,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17808-A-12.wav,crackling_fire,environment,esc-50,17808,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17808-B-12.wav,crackling_fire,environment,esc-50,17808,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-17970-A-4.wav,frog,amphibian,esc-50,17970,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-18074-A-6.wav,hen,bird,esc-50,18074,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-18074-B-6.wav,hen,bird,esc-50,18074,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-18755-A-4.wav,frog,amphibian,esc-50,18755,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-18755-B-4.wav,frog,amphibian,esc-50,18755,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-18757-A-4.wav,frog,amphibian,esc-50,18757,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-19501-A-7.wav,insects,insect,esc-50,19501,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-196660-A-8.wav,sheep,mammal,esc-50,196660,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-196660-B-8.wav,sheep,mammal,esc-50,196660,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-21189-A-10.wav,rain,environment,esc-50,21189,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-23222-A-19.wav,thunderstorm,environment,esc-50,23222,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-23222-B-19.wav,thunderstorm,environment,esc-50,23222,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-24524-A-19.wav,thunderstorm,environment,esc-50,24524,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-24524-B-19.wav,thunderstorm,environment,esc-50,24524,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-24524-C-19.wav,thunderstorm,environment,esc-50,24524,雷暴,Thunderstorm,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-26222-A-10.wav,rain,environment,esc-50,26222,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-26806-A-1.wav,rooster,bird,esc-50,26806,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-27724-A-1.wav,rooster,bird,esc-50,27724,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-28135-A-11.wav,sea_waves,environment,esc-50,28135,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-28135-B-11.wav,sea_waves,environment,esc-50,28135,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-29532-A-16.wav,wind,environment,esc-50,29532,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-29561-A-10.wav,rain,environment,esc-50,29561,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-30226-A-0.wav,dog,mammal,esc-50,30226,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-30344-A-0.wav,dog,mammal,esc-50,30344,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-31251-A-6.wav,hen,bird,esc-50,31251,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-31251-B-6.wav,hen,bird,esc-50,31251,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-31836-A-4.wav,frog,amphibian,esc-50,31836,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-31836-B-4.wav,frog,amphibian,esc-50,31836,蛙,Frog,Anura,advertisement_call,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-32318-A-0.wav,dog,mammal,esc-50,32318,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34094-A-5.wav,cat,mammal,esc-50,34094,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34094-B-5.wav,cat,mammal,esc-50,34094,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34119-A-1.wav,rooster,bird,esc-50,34119,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34119-B-1.wav,rooster,bird,esc-50,34119,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34495-A-14.wav,chirping_birds,bird,esc-50,34495,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-34497-A-14.wav,chirping_birds,bird,esc-50,34497,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-38559-A-14.wav,chirping_birds,bird,esc-50,38559,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-38560-A-14.wav,chirping_birds,bird,esc-50,38560,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-39835-A-9.wav,crow,bird,esc-50,39835,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-39835-B-9.wav,crow,bird,esc-50,39835,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-39901-A-11.wav,sea_waves,environment,esc-50,39901,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-39901-B-11.wav,sea_waves,environment,esc-50,39901,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-39923-A-1.wav,rooster,bird,esc-50,39923,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-40730-A-1.wav,rooster,bird,esc-50,40730,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-4211-A-12.wav,crackling_fire,environment,esc-50,4211,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-43382-A-1.wav,rooster,bird,esc-50,43382,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-43760-A-11.wav,sea_waves,environment,esc-50,43760,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-44831-A-1.wav,rooster,bird,esc-50,44831,公鸡,Rooster,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-46040-A-14.wav,chirping_birds,bird,esc-50,46040,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-46272-A-12.wav,crackling_fire,environment,esc-50,46272,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-46938-A-7.wav,insects,insect,esc-50,46938,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-46938-B-7.wav,insects,insect,esc-50,46938,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-47709-A-16.wav,wind,environment,esc-50,47709,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-47714-A-16.wav,wind,environment,esc-50,47714,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-47819-A-5.wav,cat,mammal,esc-50,47819,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-47819-B-5.wav,cat,mammal,esc-50,47819,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-47819-C-5.wav,cat,mammal,esc-50,47819,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-49409-A-8.wav,sheep,mammal,esc-50,49409,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-49409-B-8.wav,sheep,mammal,esc-50,49409,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-50060-A-10.wav,rain,environment,esc-50,50060,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-51035-A-16.wav,wind,environment,esc-50,51035,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-51036-A-16.wav,wind,environment,esc-50,51036,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-51037-A-16.wav,wind,environment,esc-50,51037,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-54918-A-14.wav,chirping_birds,bird,esc-50,54918,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-54918-B-14.wav,chirping_birds,bird,esc-50,54918,鸣禽,Chirping birds,Aves,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-54958-A-10.wav,rain,environment,esc-50,54958,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-56233-A-9.wav,crow,bird,esc-50,56233,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-56234-A-9.wav,crow,bird,esc-50,56234,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-56311-A-10.wav,rain,environment,esc-50,56311,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-56380-A-5.wav,cat,mammal,esc-50,56380,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-56380-B-5.wav,cat,mammal,esc-50,56380,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-57316-A-13.wav,crickets,insect,esc-50,57316,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-57318-A-13.wav,crickets,insect,esc-50,57318,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-57795-A-8.wav,sheep,mammal,esc-50,57795,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-59102-A-13.wav,crickets,insect,esc-50,59102,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-59513-A-0.wav,dog,mammal,esc-50,59513,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-5996-A-6.wav,hen,bird,esc-50,5996,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-61252-A-11.wav,sea_waves,environment,esc-50,61252,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-63871-A-10.wav,rain,environment,esc-50,63871,雨声,Rain,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-65483-A-13.wav,crickets,insect,esc-50,65483,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-69760-A-16.wav,wind,environment,esc-50,69760,风声,Wind,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-7057-A-12.wav,crackling_fire,environment,esc-50,7057,篝火,Crackling fire,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-71030-A-6.wav,hen,bird,esc-50,71030,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-72229-A-6.wav,hen,bird,esc-50,72229,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-72229-B-6.wav,hen,bird,esc-50,72229,母鸡,Hen,Gallus gallus domesticus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-73585-A-7.wav,insects,insect,esc-50,73585,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-7456-A-13.wav,crickets,insect,esc-50,7456,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-75162-A-9.wav,crow,bird,esc-50,75162,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-75189-A-7.wav,insects,insect,esc-50,75189,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-75190-A-8.wav,sheep,mammal,esc-50,75190,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-79113-A-5.wav,cat,mammal,esc-50,79113,猫,Cat,Felis catus,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-7973-A-7.wav,insects,insect,esc-50,7973,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-80785-A-7.wav,insects,insect,esc-50,80785,昆虫（复合）,Insects,Insecta,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-80840-A-13.wav,crickets,insect,esc-50,80840,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-80841-A-13.wav,crickets,insect,esc-50,80841,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-85362-A-0.wav,dog,mammal,esc-50,85362,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-88574-A-8.wav,sheep,mammal,esc-50,88574,羊,Sheep,Ovis aries,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-91359-A-11.wav,sea_waves,environment,esc-50,91359,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-91359-B-11.wav,sea_waves,environment,esc-50,91359,海浪,Sea waves,,ambient,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-96950-A-9.wav,crow,bird,esc-50,96950,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-96950-B-9.wav,crow,bird,esc-50,96950,乌鸦,Crow,Corvus,song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-97392-A-0.wav,dog,mammal,esc-50,97392,犬,Dog,Canis lupus familiaris,vocalization,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/1-9841-A-13.wav,crickets,insect,esc-50,9841,蟋蟀,Crickets,Gryllidae,calling_song,,fold1,esc-50,CC-BY-NC-3.0,0,5
+audio/2-100786-A-1.wav,rooster,bird,esc-50,100786,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-101676-A-10.wav,rain,environment,esc-50,101676,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-102852-A-11.wav,sea_waves,environment,esc-50,102852,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-104105-A-19.wav,thunderstorm,environment,esc-50,104105,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-104105-B-19.wav,thunderstorm,environment,esc-50,104105,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-104952-A-16.wav,wind,environment,esc-50,104952,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-104952-B-16.wav,wind,environment,esc-50,104952,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-106019-A-13.wav,crickets,insect,esc-50,106019,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108760-A-14.wav,chirping_birds,bird,esc-50,108760,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108760-B-14.wav,chirping_birds,bird,esc-50,108760,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108761-A-14.wav,chirping_birds,bird,esc-50,108761,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108763-A-9.wav,crow,bird,esc-50,108763,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108766-A-9.wav,crow,bird,esc-50,108766,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108767-A-9.wav,crow,bird,esc-50,108767,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108767-B-9.wav,crow,bird,esc-50,108767,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-108767-C-9.wav,crow,bird,esc-50,108767,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109231-A-9.wav,crow,bird,esc-50,109231,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109231-B-9.wav,crow,bird,esc-50,109231,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109231-C-9.wav,crow,bird,esc-50,109231,乌鸦,Crow,Corvus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109371-A-16.wav,wind,environment,esc-50,109371,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109371-B-16.wav,wind,environment,esc-50,109371,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109371-C-16.wav,wind,environment,esc-50,109371,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109371-D-16.wav,wind,environment,esc-50,109371,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-109374-A-16.wav,wind,environment,esc-50,109374,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-110010-A-5.wav,cat,mammal,esc-50,110010,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-110011-A-5.wav,cat,mammal,esc-50,110011,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-110613-A-13.wav,crickets,insect,esc-50,110613,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-110614-A-8.wav,sheep,mammal,esc-50,110614,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-110614-B-8.wav,sheep,mammal,esc-50,110614,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-114280-A-0.wav,dog,mammal,esc-50,114280,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-114587-A-0.wav,dog,mammal,esc-50,114587,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-116400-A-0.wav,dog,mammal,esc-50,116400,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-117271-A-0.wav,dog,mammal,esc-50,117271,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-117625-A-10.wav,rain,environment,esc-50,117625,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-118072-A-0.wav,dog,mammal,esc-50,118072,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-118964-A-0.wav,dog,mammal,esc-50,118964,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-119161-A-8.wav,sheep,mammal,esc-50,119161,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-119161-B-8.wav,sheep,mammal,esc-50,119161,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-119161-C-8.wav,sheep,mammal,esc-50,119161,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-120586-A-6.wav,hen,bird,esc-50,120586,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-120587-A-6.wav,hen,bird,esc-50,120587,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-122104-A-0.wav,dog,mammal,esc-50,122104,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-122104-B-0.wav,dog,mammal,esc-50,122104,犬,Dog,Canis lupus familiaris,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-122616-A-14.wav,chirping_birds,bird,esc-50,122616,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-124662-A-11.wav,sea_waves,environment,esc-50,124662,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-125821-A-13.wav,crickets,insect,esc-50,125821,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-125875-A-13.wav,crickets,insect,esc-50,125875,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-125966-A-11.wav,sea_waves,environment,esc-50,125966,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-127109-A-6.wav,hen,bird,esc-50,127109,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-132157-A-11.wav,sea_waves,environment,esc-50,132157,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-132157-B-11.wav,sea_waves,environment,esc-50,132157,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-133863-A-11.wav,sea_waves,environment,esc-50,133863,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-134049-A-6.wav,hen,bird,esc-50,134049,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-137162-A-11.wav,sea_waves,environment,esc-50,137162,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-155801-A-11.wav,sea_waves,environment,esc-50,155801,海浪,Sea waves,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-157488-A-6.wav,hen,bird,esc-50,157488,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-160128-A-7.wav,insects,insect,esc-50,160128,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-182508-A-8.wav,sheep,mammal,esc-50,182508,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-182508-B-8.wav,sheep,mammal,esc-50,182508,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-18766-A-12.wav,crackling_fire,environment,esc-50,18766,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-18766-B-12.wav,crackling_fire,environment,esc-50,18766,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-196688-A-8.wav,sheep,mammal,esc-50,196688,羊,Sheep,Ovis aries,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-205966-A-16.wav,wind,environment,esc-50,205966,风声,Wind,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-28314-A-12.wav,crackling_fire,environment,esc-50,28314,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-28314-B-12.wav,crackling_fire,environment,esc-50,28314,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-30322-A-12.wav,crackling_fire,environment,esc-50,30322,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-30322-B-12.wav,crackling_fire,environment,esc-50,30322,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-32515-A-4.wav,frog,amphibian,esc-50,32515,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-32515-B-4.wav,frog,amphibian,esc-50,32515,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-32515-C-4.wav,frog,amphibian,esc-50,32515,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-32515-D-4.wav,frog,amphibian,esc-50,32515,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-32834-A-4.wav,frog,amphibian,esc-50,32834,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39441-A-19.wav,thunderstorm,environment,esc-50,39441,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39443-A-19.wav,thunderstorm,environment,esc-50,39443,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39443-B-19.wav,thunderstorm,environment,esc-50,39443,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39945-A-19.wav,thunderstorm,environment,esc-50,39945,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39945-B-19.wav,thunderstorm,environment,esc-50,39945,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-39945-C-19.wav,thunderstorm,environment,esc-50,39945,雷暴,Thunderstorm,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-52085-A-4.wav,frog,amphibian,esc-50,52085,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-52085-B-4.wav,frog,amphibian,esc-50,52085,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-52789-A-4.wav,frog,amphibian,esc-50,52789,蛙,Frog,Anura,advertisement_call,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-61311-A-12.wav,crackling_fire,environment,esc-50,61311,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-65747-A-12.wav,crackling_fire,environment,esc-50,65747,篝火,Crackling fire,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-65750-A-1.wav,rooster,bird,esc-50,65750,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-69131-A-5.wav,cat,mammal,esc-50,69131,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-69131-B-5.wav,cat,mammal,esc-50,69131,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-71162-A-1.wav,rooster,bird,esc-50,71162,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72268-A-6.wav,hen,bird,esc-50,72268,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72547-A-14.wav,chirping_birds,bird,esc-50,72547,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72547-B-14.wav,chirping_birds,bird,esc-50,72547,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72547-C-14.wav,chirping_birds,bird,esc-50,72547,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72547-D-14.wav,chirping_birds,bird,esc-50,72547,鸣禽,Chirping birds,Aves,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-72970-A-10.wav,rain,environment,esc-50,72970,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-73027-A-10.wav,rain,environment,esc-50,73027,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-73260-A-10.wav,rain,environment,esc-50,73260,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-75726-A-6.wav,hen,bird,esc-50,75726,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-76868-A-6.wav,hen,bird,esc-50,76868,母鸡,Hen,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-80844-A-13.wav,crickets,insect,esc-50,80844,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-81270-A-1.wav,rooster,bird,esc-50,81270,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-81731-A-10.wav,rain,environment,esc-50,81731,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-81970-A-7.wav,insects,insect,esc-50,81970,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-81970-B-7.wav,insects,insect,esc-50,81970,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-81970-C-7.wav,insects,insect,esc-50,81970,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-82077-A-7.wav,insects,insect,esc-50,82077,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-82274-A-5.wav,cat,mammal,esc-50,82274,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-82274-B-5.wav,cat,mammal,esc-50,82274,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-82367-A-10.wav,rain,environment,esc-50,82367,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-83270-A-13.wav,crickets,insect,esc-50,83270,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-83934-A-5.wav,cat,mammal,esc-50,83934,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-83934-B-5.wav,cat,mammal,esc-50,83934,猫,Cat,Felis catus,vocalization,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-85139-A-13.wav,crickets,insect,esc-50,85139,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-87781-A-10.wav,rain,environment,esc-50,87781,雨声,Rain,,ambient,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-95035-A-1.wav,rooster,bird,esc-50,95035,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-95258-A-1.wav,rooster,bird,esc-50,95258,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-95258-B-1.wav,rooster,bird,esc-50,95258,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-96033-A-13.wav,crickets,insect,esc-50,96033,蟋蟀,Crickets,Gryllidae,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-96460-A-1.wav,rooster,bird,esc-50,96460,公鸡,Rooster,Gallus gallus domesticus,song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-99955-A-7.wav,insects,insect,esc-50,99955,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-99955-B-7.wav,insects,insect,esc-50,99955,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/2-99955-C-7.wav,insects,insect,esc-50,99955,昆虫（复合）,Insects,Insecta,calling_song,,fold2,esc-50,CC-BY-NC-3.0,0,5
+audio/3-102908-A-4.wav,frog,amphibian,esc-50,102908,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-103050-A-19.wav,thunderstorm,environment,esc-50,103050,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-103051-A-19.wav,thunderstorm,environment,esc-50,103051,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-103051-B-19.wav,thunderstorm,environment,esc-50,103051,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-103051-C-19.wav,thunderstorm,environment,esc-50,103051,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-104632-A-12.wav,crackling_fire,environment,esc-50,104632,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-104761-A-7.wav,insects,insect,esc-50,104761,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-104761-B-7.wav,insects,insect,esc-50,104761,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-104958-A-12.wav,crackling_fire,environment,esc-50,104958,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-105235-A-7.wav,insects,insect,esc-50,105235,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-105236-A-7.wav,insects,insect,esc-50,105236,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-107219-A-1.wav,rooster,bird,esc-50,107219,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-110913-A-7.wav,insects,insect,esc-50,110913,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-110913-B-7.wav,insects,insect,esc-50,110913,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-110913-C-7.wav,insects,insect,esc-50,110913,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-110913-D-7.wav,insects,insect,esc-50,110913,昆虫（复合）,Insects,Insecta,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-112397-A-9.wav,crow,bird,esc-50,112397,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-116135-A-1.wav,rooster,bird,esc-50,116135,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-117293-A-9.wav,crow,bird,esc-50,117293,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-117504-A-16.wav,wind,environment,esc-50,117504,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-117504-B-16.wav,wind,environment,esc-50,117504,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-120644-A-12.wav,crackling_fire,environment,esc-50,120644,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-121348-A-9.wav,crow,bird,esc-50,121348,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-123224-A-19.wav,thunderstorm,environment,esc-50,123224,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-124600-A-19.wav,thunderstorm,environment,esc-50,124600,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-124925-A-9.wav,crow,bird,esc-50,124925,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-127890-A-9.wav,crow,bird,esc-50,127890,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-127890-B-9.wav,crow,bird,esc-50,127890,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-127890-C-9.wav,crow,bird,esc-50,127890,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-129264-A-9.wav,crow,bird,esc-50,129264,乌鸦,Crow,Corvus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-129338-A-13.wav,crickets,insect,esc-50,129338,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-129678-A-13.wav,crickets,insect,esc-50,129678,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-132852-A-10.wav,rain,environment,esc-50,132852,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-134049-A-1.wav,rooster,bird,esc-50,134049,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-134699-A-16.wav,wind,environment,esc-50,134699,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-134699-B-16.wav,wind,environment,esc-50,134699,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-134699-C-16.wav,wind,environment,esc-50,134699,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-134802-A-13.wav,crickets,insect,esc-50,134802,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-136288-A-0.wav,dog,mammal,esc-50,136288,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-136608-A-16.wav,wind,environment,esc-50,136608,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-137152-A-1.wav,rooster,bird,esc-50,137152,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-140199-A-8.wav,sheep,mammal,esc-50,140199,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-140199-B-8.wav,sheep,mammal,esc-50,140199,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-140199-C-8.wav,sheep,mammal,esc-50,140199,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-140199-D-8.wav,sheep,mammal,esc-50,140199,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-140774-A-10.wav,rain,environment,esc-50,140774,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-142005-A-10.wav,rain,environment,esc-50,142005,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-142006-A-10.wav,rain,environment,esc-50,142006,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-143929-A-10.wav,rain,environment,esc-50,143929,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-144028-A-0.wav,dog,mammal,esc-50,144028,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-144827-A-11.wav,sea_waves,environment,esc-50,144827,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-144827-B-11.wav,sea_waves,environment,esc-50,144827,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-144891-A-19.wav,thunderstorm,environment,esc-50,144891,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-144891-B-19.wav,thunderstorm,environment,esc-50,144891,雷暴,Thunderstorm,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-145382-A-1.wav,rooster,bird,esc-50,145382,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-145774-A-12.wav,crackling_fire,environment,esc-50,145774,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-146033-A-13.wav,crickets,insect,esc-50,146033,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-146964-A-5.wav,cat,mammal,esc-50,146964,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-146965-A-5.wav,cat,mammal,esc-50,146965,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-146972-A-5.wav,cat,mammal,esc-50,146972,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-147965-A-12.wav,crackling_fire,environment,esc-50,147965,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-149189-A-1.wav,rooster,bird,esc-50,149189,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-154957-A-1.wav,rooster,bird,esc-50,154957,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155312-A-0.wav,dog,mammal,esc-50,155312,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155577-A-14.wav,chirping_birds,bird,esc-50,155577,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155578-A-14.wav,chirping_birds,bird,esc-50,155578,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155579-A-14.wav,chirping_birds,bird,esc-50,155579,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155583-A-14.wav,chirping_birds,bird,esc-50,155583,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155584-A-14.wav,chirping_birds,bird,esc-50,155584,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155642-A-11.wav,sea_waves,environment,esc-50,155642,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155642-B-11.wav,sea_waves,environment,esc-50,155642,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-155766-A-13.wav,crickets,insect,esc-50,155766,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-156581-A-14.wav,chirping_birds,bird,esc-50,156581,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-156581-B-14.wav,chirping_birds,bird,esc-50,156581,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-157149-A-10.wav,rain,environment,esc-50,157149,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-157187-A-12.wav,crackling_fire,environment,esc-50,157187,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-157487-A-10.wav,rain,environment,esc-50,157487,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-157615-A-10.wav,rain,environment,esc-50,157615,雨声,Rain,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-157695-A-0.wav,dog,mammal,esc-50,157695,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-158476-A-12.wav,crackling_fire,environment,esc-50,158476,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-162786-A-13.wav,crickets,insect,esc-50,162786,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-163288-A-1.wav,rooster,bird,esc-50,163288,公鸡,Rooster,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-163459-A-0.wav,dog,mammal,esc-50,163459,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-163607-A-13.wav,crickets,insect,esc-50,163607,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-163607-B-13.wav,crickets,insect,esc-50,163607,蟋蟀,Crickets,Gryllidae,calling_song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-164120-A-11.wav,sea_waves,environment,esc-50,164120,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-164216-A-6.wav,hen,bird,esc-50,164216,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-164216-B-6.wav,hen,bird,esc-50,164216,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-164216-C-6.wav,hen,bird,esc-50,164216,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-164630-A-11.wav,sea_waves,environment,esc-50,164630,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-166422-A-11.wav,sea_waves,environment,esc-50,166422,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-170015-A-0.wav,dog,mammal,esc-50,170015,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-171281-A-6.wav,hen,bird,esc-50,171281,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-178096-A-6.wav,hen,bird,esc-50,178096,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-180256-A-0.wav,dog,mammal,esc-50,180256,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-180977-A-0.wav,dog,mammal,esc-50,180977,犬,Dog,Canis lupus familiaris,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-181132-A-14.wav,chirping_birds,bird,esc-50,181132,鸣禽,Chirping birds,Aves,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-187549-A-6.wav,hen,bird,esc-50,187549,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-187549-B-6.wav,hen,bird,esc-50,187549,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-187710-A-11.wav,sea_waves,environment,esc-50,187710,海浪,Sea waves,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-188390-A-6.wav,hen,bird,esc-50,188390,母鸡,Hen,Gallus gallus domesticus,song,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-197408-A-8.wav,sheep,mammal,esc-50,197408,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-197408-B-8.wav,sheep,mammal,esc-50,197408,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-197408-C-8.wav,sheep,mammal,esc-50,197408,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-20861-A-8.wav,sheep,mammal,esc-50,20861,羊,Sheep,Ovis aries,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-246513-A-16.wav,wind,environment,esc-50,246513,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-246513-B-16.wav,wind,environment,esc-50,246513,风声,Wind,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-65748-A-12.wav,crackling_fire,environment,esc-50,65748,篝火,Crackling fire,,ambient,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-70962-A-4.wav,frog,amphibian,esc-50,70962,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-70962-B-4.wav,frog,amphibian,esc-50,70962,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-70962-C-4.wav,frog,amphibian,esc-50,70962,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-71964-A-4.wav,frog,amphibian,esc-50,71964,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-71964-B-4.wav,frog,amphibian,esc-50,71964,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-71964-C-4.wav,frog,amphibian,esc-50,71964,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-83527-A-4.wav,frog,amphibian,esc-50,83527,蛙,Frog,Anura,advertisement_call,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-95694-A-5.wav,cat,mammal,esc-50,95694,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-95695-A-5.wav,cat,mammal,esc-50,95695,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-95695-B-5.wav,cat,mammal,esc-50,95695,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-95697-A-5.wav,cat,mammal,esc-50,95697,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/3-95698-A-5.wav,cat,mammal,esc-50,95698,猫,Cat,Felis catus,vocalization,,fold3,esc-50,CC-BY-NC-3.0,0,5
+audio/4-120160-A-5.wav,cat,mammal,esc-50,120160,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-125070-A-19.wav,thunderstorm,environment,esc-50,125070,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-125071-A-19.wav,thunderstorm,environment,esc-50,125071,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-125072-A-19.wav,thunderstorm,environment,esc-50,125072,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-125072-B-19.wav,thunderstorm,environment,esc-50,125072,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-130584-A-4.wav,frog,amphibian,esc-50,130584,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-130891-A-7.wav,insects,insect,esc-50,130891,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-133047-A-5.wav,cat,mammal,esc-50,133047,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-133047-B-5.wav,cat,mammal,esc-50,133047,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-133047-C-5.wav,cat,mammal,esc-50,133047,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-133895-A-7.wav,insects,insect,esc-50,133895,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-136381-A-9.wav,crow,bird,esc-50,136381,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-138344-A-9.wav,crow,bird,esc-50,138344,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-143118-A-7.wav,insects,insect,esc-50,143118,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-143118-B-7.wav,insects,insect,esc-50,143118,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-144083-A-16.wav,wind,environment,esc-50,144083,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-144083-B-16.wav,wind,environment,esc-50,144083,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-144083-C-16.wav,wind,environment,esc-50,144083,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-144085-A-16.wav,wind,environment,esc-50,144085,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-145081-A-9.wav,crow,bird,esc-50,145081,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-149940-A-5.wav,cat,mammal,esc-50,149940,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-149940-B-5.wav,cat,mammal,esc-50,149940,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-154793-A-4.wav,frog,amphibian,esc-50,154793,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-156227-A-9.wav,crow,bird,esc-50,156227,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-156993-A-19.wav,thunderstorm,environment,esc-50,156993,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-159426-A-9.wav,crow,bird,esc-50,159426,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-159609-A-14.wav,chirping_birds,bird,esc-50,159609,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-159609-B-14.wav,chirping_birds,bird,esc-50,159609,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-160999-A-10.wav,rain,environment,esc-50,160999,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-161127-A-10.wav,rain,environment,esc-50,161127,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-161303-A-5.wav,cat,mammal,esc-50,161303,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-161303-B-5.wav,cat,mammal,esc-50,161303,猫,Cat,Felis catus,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-161519-A-19.wav,thunderstorm,environment,esc-50,161519,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163264-A-10.wav,rain,environment,esc-50,163264,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163606-A-16.wav,wind,environment,esc-50,163606,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163608-B-16.wav,wind,environment,esc-50,163608,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163609-A-16.wav,wind,environment,esc-50,163609,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163609-B-16.wav,wind,environment,esc-50,163609,风声,Wind,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-163697-A-13.wav,crickets,insect,esc-50,163697,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164021-A-1.wav,rooster,bird,esc-50,164021,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164064-A-1.wav,rooster,bird,esc-50,164064,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164064-B-1.wav,rooster,bird,esc-50,164064,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164064-C-1.wav,rooster,bird,esc-50,164064,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164206-A-10.wav,rain,environment,esc-50,164206,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164661-A-12.wav,crackling_fire,environment,esc-50,164661,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164661-B-12.wav,crackling_fire,environment,esc-50,164661,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-164859-A-1.wav,rooster,bird,esc-50,164859,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-165813-A-19.wav,thunderstorm,environment,esc-50,165813,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-165813-B-19.wav,thunderstorm,environment,esc-50,165813,雷暴,Thunderstorm,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-166661-A-10.wav,rain,environment,esc-50,166661,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-167063-A-11.wav,sea_waves,environment,esc-50,167063,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-167063-B-11.wav,sea_waves,environment,esc-50,167063,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-167063-C-11.wav,sea_waves,environment,esc-50,167063,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-170078-A-1.wav,rooster,bird,esc-50,170078,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-170247-A-12.wav,crackling_fire,environment,esc-50,170247,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-170247-B-12.wav,crackling_fire,environment,esc-50,170247,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-171207-A-12.wav,crackling_fire,environment,esc-50,171207,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-171823-A-13.wav,crickets,insect,esc-50,171823,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-172143-A-13.wav,crickets,insect,esc-50,172143,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-173865-A-9.wav,crow,bird,esc-50,173865,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-173865-B-9.wav,crow,bird,esc-50,173865,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-177250-A-10.wav,rain,environment,esc-50,177250,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-180380-A-10.wav,rain,environment,esc-50,180380,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-181286-A-10.wav,rain,environment,esc-50,181286,雨声,Rain,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-181362-A-13.wav,crickets,insect,esc-50,181362,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-181563-A-12.wav,crackling_fire,environment,esc-50,181563,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182314-A-7.wav,insects,insect,esc-50,182314,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182314-B-7.wav,insects,insect,esc-50,182314,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182368-A-12.wav,crackling_fire,environment,esc-50,182368,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182369-A-12.wav,crackling_fire,environment,esc-50,182369,篝火,Crackling fire,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182395-A-0.wav,dog,mammal,esc-50,182395,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182613-A-11.wav,sea_waves,environment,esc-50,182613,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182613-B-11.wav,sea_waves,environment,esc-50,182613,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-182795-A-14.wav,chirping_birds,bird,esc-50,182795,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-183487-A-1.wav,rooster,bird,esc-50,183487,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-183992-A-0.wav,dog,mammal,esc-50,183992,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-184575-A-0.wav,dog,mammal,esc-50,184575,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-187769-A-14.wav,chirping_birds,bird,esc-50,187769,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-187769-B-14.wav,chirping_birds,bird,esc-50,187769,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-188287-A-9.wav,crow,bird,esc-50,188287,乌鸦,Crow,Corvus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-188703-A-8.wav,sheep,mammal,esc-50,188703,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-188703-B-8.wav,sheep,mammal,esc-50,188703,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-188703-C-8.wav,sheep,mammal,esc-50,188703,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-188703-D-8.wav,sheep,mammal,esc-50,188703,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-191246-A-7.wav,insects,insect,esc-50,191246,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-191246-B-7.wav,insects,insect,esc-50,191246,昆虫（复合）,Insects,Insecta,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-191687-A-0.wav,dog,mammal,esc-50,191687,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-192236-A-0.wav,dog,mammal,esc-50,192236,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-194246-A-13.wav,crickets,insect,esc-50,194246,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-194754-A-0.wav,dog,mammal,esc-50,194754,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-195497-A-11.wav,sea_waves,environment,esc-50,195497,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-195497-B-11.wav,sea_waves,environment,esc-50,195497,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-195707-A-13.wav,crickets,insect,esc-50,195707,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-195805-A-13.wav,crickets,insect,esc-50,195805,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-196671-A-8.wav,sheep,mammal,esc-50,196671,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-196671-B-8.wav,sheep,mammal,esc-50,196671,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-196672-A-8.wav,sheep,mammal,esc-50,196672,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-197103-A-6.wav,hen,bird,esc-50,197103,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-199261-A-0.wav,dog,mammal,esc-50,199261,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-200330-A-6.wav,hen,bird,esc-50,200330,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-200330-B-6.wav,hen,bird,esc-50,200330,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-202749-A-13.wav,crickets,insect,esc-50,202749,蟋蟀,Crickets,Gryllidae,calling_song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-204618-A-11.wav,sea_waves,environment,esc-50,204618,海浪,Sea waves,,ambient,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-204830-A-6.wav,hen,bird,esc-50,204830,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-207124-A-0.wav,dog,mammal,esc-50,207124,犬,Dog,Canis lupus familiaris,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-208021-A-1.wav,rooster,bird,esc-50,208021,公鸡,Rooster,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-216211-A-14.wav,chirping_birds,bird,esc-50,216211,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-223125-A-14.wav,chirping_birds,bird,esc-50,223125,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-223127-A-14.wav,chirping_birds,bird,esc-50,223127,鸣禽,Chirping birds,Aves,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-232495-A-6.wav,hen,bird,esc-50,232495,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-234879-A-6.wav,hen,bird,esc-50,234879,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-244318-A-6.wav,hen,bird,esc-50,244318,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-250864-A-8.wav,sheep,mammal,esc-50,250864,羊,Sheep,Ovis aries,vocalization,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-253649-A-6.wav,hen,bird,esc-50,253649,母鸡,Hen,Gallus gallus domesticus,song,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99193-A-4.wav,frog,amphibian,esc-50,99193,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99193-B-4.wav,frog,amphibian,esc-50,99193,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99644-A-4.wav,frog,amphibian,esc-50,99644,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99644-B-4.wav,frog,amphibian,esc-50,99644,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99644-C-4.wav,frog,amphibian,esc-50,99644,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/4-99644-D-4.wav,frog,amphibian,esc-50,99644,蛙,Frog,Anura,advertisement_call,,fold4,esc-50,CC-BY-NC-3.0,0,5
+audio/5-117773-A-16.wav,wind,environment,esc-50,117773,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156026-A-4.wav,frog,amphibian,esc-50,156026,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156026-B-4.wav,frog,amphibian,esc-50,156026,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156026-C-4.wav,frog,amphibian,esc-50,156026,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156026-D-4.wav,frog,amphibian,esc-50,156026,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156999-A-19.wav,thunderstorm,environment,esc-50,156999,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156999-B-19.wav,thunderstorm,environment,esc-50,156999,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156999-C-19.wav,thunderstorm,environment,esc-50,156999,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156999-D-19.wav,thunderstorm,environment,esc-50,156999,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-156999-E-19.wav,thunderstorm,environment,esc-50,156999,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-157204-A-16.wav,wind,environment,esc-50,157204,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-157204-B-16.wav,wind,environment,esc-50,157204,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-169983-A-5.wav,cat,mammal,esc-50,169983,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-172299-A-5.wav,cat,mammal,esc-50,172299,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-172639-A-5.wav,cat,mammal,esc-50,172639,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-177614-A-5.wav,cat,mammal,esc-50,177614,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-179496-A-16.wav,wind,environment,esc-50,179496,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-179496-B-16.wav,wind,environment,esc-50,179496,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-181766-A-10.wav,rain,environment,esc-50,181766,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-186924-A-12.wav,crackling_fire,environment,esc-50,186924,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-187201-A-4.wav,frog,amphibian,esc-50,187201,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-187201-B-4.wav,frog,amphibian,esc-50,187201,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-188495-A-19.wav,thunderstorm,environment,esc-50,188495,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-188655-A-10.wav,rain,environment,esc-50,188655,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-189212-A-12.wav,crackling_fire,environment,esc-50,189212,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-189237-A-12.wav,crackling_fire,environment,esc-50,189237,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-189795-A-4.wav,frog,amphibian,esc-50,189795,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-192191-A-19.wav,thunderstorm,environment,esc-50,192191,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-193339-A-10.wav,rain,environment,esc-50,193339,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-193473-A-12.wav,crackling_fire,environment,esc-50,193473,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-193473-B-12.wav,crackling_fire,environment,esc-50,193473,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-194892-A-10.wav,rain,environment,esc-50,194892,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-194930-A-1.wav,rooster,bird,esc-50,194930,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-194930-B-1.wav,rooster,bird,esc-50,194930,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-194932-A-7.wav,insects,insect,esc-50,194932,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-195517-A-7.wav,insects,insect,esc-50,195517,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-195518-A-7.wav,insects,insect,esc-50,195518,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-195557-A-19.wav,thunderstorm,environment,esc-50,195557,雷暴,Thunderstorm,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-195710-A-10.wav,rain,environment,esc-50,195710,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-197446-A-7.wav,insects,insect,esc-50,197446,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198278-A-7.wav,insects,insect,esc-50,198278,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198278-B-7.wav,insects,insect,esc-50,198278,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198278-C-7.wav,insects,insect,esc-50,198278,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198321-A-10.wav,rain,environment,esc-50,198321,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198891-A-8.wav,sheep,mammal,esc-50,198891,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198891-B-8.wav,sheep,mammal,esc-50,198891,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198891-C-8.wav,sheep,mammal,esc-50,198891,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-198891-D-8.wav,sheep,mammal,esc-50,198891,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200329-A-8.wav,sheep,mammal,esc-50,200329,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200329-B-8.wav,sheep,mammal,esc-50,200329,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200329-C-8.wav,sheep,mammal,esc-50,200329,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200334-A-1.wav,rooster,bird,esc-50,200334,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200334-B-1.wav,rooster,bird,esc-50,200334,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200339-A-1.wav,rooster,bird,esc-50,200339,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200461-A-11.wav,sea_waves,environment,esc-50,200461,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-200461-B-11.wav,sea_waves,environment,esc-50,200461,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-202898-A-10.wav,rain,environment,esc-50,202898,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-203128-A-0.wav,dog,mammal,esc-50,203128,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-203128-B-0.wav,dog,mammal,esc-50,203128,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-203739-A-10.wav,rain,environment,esc-50,203739,雨声,Rain,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-204352-A-13.wav,crickets,insect,esc-50,204352,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-204352-B-13.wav,crickets,insect,esc-50,204352,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-208030-A-0.wav,dog,mammal,esc-50,208030,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-208810-A-11.wav,sea_waves,environment,esc-50,208810,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-208810-B-11.wav,sea_waves,environment,esc-50,208810,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-210540-A-13.wav,crickets,insect,esc-50,210540,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-212454-A-0.wav,dog,mammal,esc-50,212454,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213077-A-11.wav,sea_waves,environment,esc-50,213077,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213802-A-12.wav,crackling_fire,environment,esc-50,213802,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213836-A-9.wav,crow,bird,esc-50,213836,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213836-B-9.wav,crow,bird,esc-50,213836,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213836-C-9.wav,crow,bird,esc-50,213836,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213836-D-9.wav,crow,bird,esc-50,213836,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-213855-A-0.wav,dog,mammal,esc-50,213855,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-214759-A-5.wav,cat,mammal,esc-50,214759,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-214759-B-5.wav,cat,mammal,esc-50,214759,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-214869-A-9.wav,crow,bird,esc-50,214869,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-215172-A-13.wav,crickets,insect,esc-50,215172,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-215179-A-13.wav,crickets,insect,esc-50,215179,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-215658-A-12.wav,crackling_fire,environment,esc-50,215658,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-215658-B-12.wav,crackling_fire,environment,esc-50,215658,篝火,Crackling fire,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-216213-A-13.wav,crickets,insect,esc-50,216213,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-216214-A-13.wav,crickets,insect,esc-50,216214,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-216216-A-13.wav,crickets,insect,esc-50,216216,蟋蟀,Crickets,Gryllidae,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-217158-A-0.wav,dog,mammal,esc-50,217158,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-217186-A-16.wav,wind,environment,esc-50,217186,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-217186-B-16.wav,wind,environment,esc-50,217186,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-217186-C-16.wav,wind,environment,esc-50,217186,风声,Wind,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-219379-A-11.wav,sea_waves,environment,esc-50,219379,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-219379-B-11.wav,sea_waves,environment,esc-50,219379,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-219379-C-11.wav,sea_waves,environment,esc-50,219379,海浪,Sea waves,,ambient,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-222041-A-9.wav,crow,bird,esc-50,222041,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-231762-A-0.wav,dog,mammal,esc-50,231762,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-233160-A-1.wav,rooster,bird,esc-50,233160,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-233787-A-7.wav,insects,insect,esc-50,233787,昆虫（复合）,Insects,Insecta,calling_song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-234879-A-1.wav,rooster,bird,esc-50,234879,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-234879-B-1.wav,rooster,bird,esc-50,234879,公鸡,Rooster,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-237499-A-4.wav,frog,amphibian,esc-50,237499,蛙,Frog,Anura,advertisement_call,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-242490-A-14.wav,chirping_birds,bird,esc-50,242490,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-242491-A-14.wav,chirping_birds,bird,esc-50,242491,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-242711-A-9.wav,crow,bird,esc-50,242711,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-243448-A-14.wav,chirping_birds,bird,esc-50,243448,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-243449-A-14.wav,chirping_birds,bird,esc-50,243449,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-243450-A-14.wav,chirping_birds,bird,esc-50,243450,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-243459-A-14.wav,chirping_birds,bird,esc-50,243459,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-243459-B-14.wav,chirping_birds,bird,esc-50,243459,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-244315-A-6.wav,hen,bird,esc-50,244315,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-244315-B-6.wav,hen,bird,esc-50,244315,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-244315-C-6.wav,hen,bird,esc-50,244315,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-248341-A-6.wav,hen,bird,esc-50,248341,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-248341-B-6.wav,hen,bird,esc-50,248341,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-248341-C-6.wav,hen,bird,esc-50,248341,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-256452-A-5.wav,cat,mammal,esc-50,256452,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-257839-A-14.wav,chirping_birds,bird,esc-50,257839,鸣禽,Chirping birds,Aves,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-259169-A-5.wav,cat,mammal,esc-50,259169,猫,Cat,Felis catus,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-261325-A-9.wav,crow,bird,esc-50,261325,乌鸦,Crow,Corvus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-263831-A-6.wav,hen,bird,esc-50,263831,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-263831-B-6.wav,hen,bird,esc-50,263831,母鸡,Hen,Gallus gallus domesticus,song,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-61635-A-8.wav,sheep,mammal,esc-50,61635,羊,Sheep,Ovis aries,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5
+audio/5-9032-A-0.wav,dog,mammal,esc-50,9032,犬,Dog,Canis lupus familiaris,vocalization,,fold5,esc-50,CC-BY-NC-3.0,0,5

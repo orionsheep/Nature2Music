@@ -1,0 +1,41 @@
+project:
+  seed: 42
+  sample_duration_s: 10
+  target_groups: [bird, insect, amphibian, mammal, environment]
+
+data:
+  manifest: data/processed/manifest.split.jsonl
+  validation_ratio: 0.10
+  test_ratio: 0.10
+  # Split by original recording/site, never by random clip.
+  leakage_key: source_recording_id
+
+funasr:
+  model: FunAudioLLM/Fun-ASR-Nano-2512
+  device: cuda:0
+  hub: hf
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+  # Recommended hybrid: LoRA on Qwen decoder plus trainable audio adaptor.
+  freeze_audio_encoder: true
+  freeze_audio_adaptor: false
+  freeze_llm_base: true
+
+thinksound:
+  duration_s: 10
+  use_half: true
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_regex: '(to_q|to_k|to_v|to_out\.0|q_proj|k_proj|v_proj|out_proj)$'
+
+generation:
+  style: cinematic ambient world music
+  preserve_calls: true
+  min_duration_s: 5
+  max_duration_s: 20
+
